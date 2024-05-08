@@ -154,7 +154,7 @@ footer{
 /* responsive for mobile */
 @media screen and (max-width:576px) {
    #footer{
-    padding: 10px !important;
+    padding:40px 10px !important;
    } 
 #cont_padding{
    padding: 10px !important;
@@ -162,6 +162,18 @@ footer{
 }
 .cards{
    height: 350px;
+}
+.bg{
+  background-position-x: right;
+}
+#p_none1,#p_none2 {
+   padding:5px 0px !important;
+   text-align: justify;
+}
+#p_none3{
+   padding:20px 5px !important;
+   text-align: justify;
+
 }
 }
 
