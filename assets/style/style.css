@@ -27,7 +27,7 @@
  }
 
  .bg{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.692),rgba(0, 0, 0, 0.671)) , url("../image/bg.jpg");
+    background-image:linear-gradient(rgba(0, 0, 0, 0.692),rgba(0, 0, 0, 0.671)) , url("../image/bg-min.jpg");
     height: 70vh;
     width: 100%;
     background-size: cover;
@@ -134,7 +134,7 @@ footer{
 
 
 .cards{
-   height: 350px;
+   height: 370px;
    border: 2px solid transparent;
    transition: 0.4s;
    background-color: #05610d;
