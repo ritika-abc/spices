@@ -179,3 +179,11 @@ footer{
 
 
  
+
+/* about as */
+.breadcrumb-item+.breadcrumb-item::before {
+   float: left;
+   padding-right: var(--bs-breadcrumb-item-padding-x);
+   color: #ffffff !important;
+   content: var(--bs-breadcrumb-divider, "/");
+}
